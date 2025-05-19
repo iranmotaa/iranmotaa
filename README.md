@@ -1,25 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Iran;I+am+from+Coxim,+MS;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+## Olá! Sou o Iran, desenvolvedor frontend que ama tecnologia, café e um bom desafio.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iranmotaa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Iran github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iranmotaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+Desenvolvo aplicações web modernas focadas em performance e experiência do usuário. Sempre buscando aprender e crescer com novos desafios.
+
+<div style="display: inline-block;">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
-<div align="center">  
-<a href="https://www.instagram.com/iranmotaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
+##
 
-### Studying in this moment:
-![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<div>
+  <a href="https://iranmota.com.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/website?label=iranmota.com.br&style=for-the-badge&url=https://iranmota.com.br" alt="Meu Portfólio" />
+  </a>
+  <a href="https://www.instagram.com/iranmotaa/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram do Iran" />
+  </a>
+  <a href="https://www.linkedin.com/in/iranmota" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Iran" />
+  </a> 
+  <a href="mailto:iranmota06@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email para Iran" />
+  </a>
+</div>
