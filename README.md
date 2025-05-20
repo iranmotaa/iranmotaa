@@ -1,14 +1,14 @@
 ## Olá! Sou o Iran, desenvolvedor frontend que ama tecnologia, café e um bom desafio.
 
-Desenvolvo aplicações web modernas focadas em performance e experiência do usuário. Sempre buscando aprender e crescer com novos desafios.
+Desenvolvo aplicações web modernas focadas em performance e experiência do usuário. Sempre buscando aprender e crescer com novos obstáculos.
 
 <div style="display: inline-block;">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
 ##
