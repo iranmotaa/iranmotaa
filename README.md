@@ -1,6 +1,6 @@
-## Olá! Sou o Iran, desenvolvedor frontend que ama tecnologia, café e um bom desafio.
+## Olá! Sou o Iran.
 
-Desenvolvo aplicações web modernas focadas em performance e experiência do usuário. Sempre buscando aprender e crescer com novos obstáculos.
+Nunca fui fisgado por um vídeo motivacional. Eu só queria entender por que, quando clicava em algo, aquilo acontecia. Programar virou a resposta — e também a nova dúvida.
 
 <div style="display: inline-block;">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
