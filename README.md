@@ -10,8 +10,8 @@ Nunca fui fisgado por um vídeo motivacional. Eu só queria entender por que, qu
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
   <img align="center" alt="Jest" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Jest.svg" />
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" />
 </div>
 
 ##
