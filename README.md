@@ -6,9 +6,10 @@ Nunca fui fisgado por um vídeo motivacional. Eu só queria entender por que, qu
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
+  <img align="center" alt="Jest" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Jest.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 </div>
